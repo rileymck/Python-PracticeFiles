@@ -1,3 +1,5 @@
+//By: Riley McKenzie
+//11/11/21
 class User:
   
   def __init__(self, firstName, lastName, age, color, animal):
